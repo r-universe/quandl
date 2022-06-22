@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Quandl"]
+	path = Quandl
+	url = https://github.com/quandl/quandl-r
+	shallow = true
+	registered = true
